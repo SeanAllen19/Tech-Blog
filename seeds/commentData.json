@@ -1,0 +1,32 @@
+[
+    {
+       
+        "content": "This is my first comment! I hope you enjoy" ,
+        "post_id": 1, 
+        "user_id": 1
+    },
+    {
+     
+        "content": "I will never comment here again. The owner told me my tech was good enough" ,
+        "post_id": 2, 
+        "user_id": 2
+    },
+    {
+       
+        "content": "I tried to use lorem on this but I see nothing in this comment box" ,
+        "post_id": 3, 
+        "user_id": 1
+    },
+    {
+     
+        "content": "cap, lit, fire, yeet, rizz are all my favorite variables to use." ,
+        "post_id": 4, 
+        "user_id": 2
+    },
+    {
+        
+        "content": "Please follow me on my website!" ,
+        "post_id": 5, 
+        "user_id": 1
+    } 
+]
